@@ -2,7 +2,7 @@
   <img src="./assets/hero_banner.gif" width="100%" alt="Hero Animated Banner" />
 </div>
 
-# 👋 Hi, I'm Hariharan
+# 👋 Hi, I'm Hariharan M
 
 **🚀 Enterprise Full Stack Developer | Founder @ Orgininfo**  
 *Building ERP, CRM & AI-Powered Business Solutions*
@@ -10,7 +10,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hariharan152578&color=7B2CBF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Role-Enterprise%20Full%20Stack-0077B6?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/github/followers/hariharan152578?style=for-the-badge&logo=github&color=0077B6&label=FOLLOWERS" alt="Followers" />
   &nbsp;
   <img src="https://img.shields.io/badge/Founder-Orgininfo-00B4D8?style=for-the-badge&logo=rocket&logoColor=white" />
 </p>
@@ -87,7 +87,7 @@ Requirement Analysis ➔ UI/UX Planning ➔ Database Design ➔ Backend Architec
 
 ---
 
-## 📊 GitHub Overview & Summary
+## 📊 Real-Time GitHub Overview & Summary
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hariharan152578&theme=2077" width="100%" alt="GitHub Profile Details" />
@@ -96,13 +96,17 @@ Requirement Analysis ➔ UI/UX Planning ➔ Database Design ➔ Backend Architec
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hariharan152578&theme=2077" width="49%" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hariharan152578&theme=2077" width="49%" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hariharan152578&theme=2077&utcOffset=5.5" width="49%" alt="Productive Time (UTC +5.5)" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hariharan152578&theme=2077" width="49%" alt="Repos per Language" />
   &nbsp;
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hariharan152578&theme=2077" width="49%" alt="Most Commit Language" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=hariharan152578&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 ---
