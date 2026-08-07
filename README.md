@@ -4,8 +4,16 @@
 
 # 👋 Hi, I'm Hariharan M
 
-**🚀 Enterprise Full Stack Developer | Founder @ Archaelix Technologies**  
+**🚀 Enterprise Full Stack Developer | Founder @ Orgininfo**  
 *Building ERP, CRM & AI-Powered Business Solutions*
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hariharan152578&color=7B2CBF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Role-Enterprise%20Full%20Stack-0077B6?style=for-the-badge&logo=github&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Founder-Orgininfo-00B4D8?style=for-the-badge&logo=rocket&logoColor=white" />
+</p>
 
 > *"From idea to enterprise-grade software. Building technology that transforms ideas into scalable business solutions."*
 
@@ -79,11 +87,22 @@ Requirement Analysis ➔ UI/UX Planning ➔ Database Design ➔ Backend Architec
 
 ---
 
-## 📊 GitHub Overview
+## 📊 GitHub Overview & Analytics
+
+<div align="center">
+
+| ⚡ Metrics | 📈 Achievements |
+| :--- | :--- |
+| 🔥 **Contributions**: 550+ Commits & Pull Requests | 🏅 **Repositories**: 40+ Production & Open Source Projects |
+| 🛠️ **Core Focus**: Full Stack & Systems Architecture | 🤖 **Automation**: Meta API & Business AI Integrations |
+
+</div>
+
+<br/>
 
 <p align="center">
   <a href="https://github.com/hariharan152578">
-    <img src="https://github-readme-stats-fast.vercel.app/api?username=hariharan152578&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=hariharan152578&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" />
     <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hariharan152578&layout=compact&theme=tokyonight&hide_border=true" height="165" />
   </a>
 </p>
@@ -100,7 +119,27 @@ Requirement Analysis ➔ UI/UX Planning ➔ Database Design ➔ Backend Architec
 
 ## 🌐 Connect With Me
 
-📍 **Tamil Nadu, India** | 🏢 **Founder @ Archaelix Technologies**
+<div align="center">
+
+### 🏢 Founder @ **Orgininfo** &nbsp;|&nbsp; 📍 **Tamil Nadu, India**
+
+*Open for enterprise consulting, software architecture roles, and innovative tech partnerships.*
+
+<br/>
+
+<a href="https://linkedin.com/in/hariharan152578" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Hariharan%20M-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:hariharan152578@gmail.com">
+  <img src="https://img.shields.io/badge/Email-hariharan152578%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/hariharan152578" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-hariharan152578-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<br/><br/>
 
 <p align="center">
   <a href="https://linkedin.com/in/hariharan152578" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
@@ -109,6 +148,8 @@ Requirement Analysis ➔ UI/UX Planning ➔ Database Design ➔ Backend Architec
   &nbsp;&nbsp;
   <a href="https://github.com/hariharan152578" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
 </p>
+
+</div>
 
 ---
 
