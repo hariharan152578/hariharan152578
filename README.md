@@ -2,43 +2,84 @@
   <img src="./assets/header_banner.png" width="100%" alt="Header Banner" />
 </div>
 
-# 👋 Hey, It's Hari here
+# 👋 Hi, I'm Hariharan M
 
-> *I like building things that make sense. I work in enterprise & full-stack space.*
+**🚀 Enterprise Full Stack Developer | Founder @ Archaelix Technologies**  
+*Building ERP, CRM & AI-Powered Business Solutions*
+
+> *"From idea to enterprise-grade software. Building technology that transforms ideas into scalable business solutions."*
 
 ---
 
-### ⚡ About Me
+## 👨‍💻 Professional Profile
+
+I am an **Enterprise Full Stack Developer** passionate about building scalable software that solves real business challenges.
+
+My expertise lies in designing complete business ecosystems — from **ERP platforms** and **CRM systems** to **E-Commerce applications**, **Conference Management portals**, and **AI-powered automation tools**.
 
 ```text
-💻 Full Stack Developer specializing in MERN & Next.js ecosystem
-⚙️ Systems Architect crafting ERPs, Conference Portals & E-Commerce suites
-🤖 AI Automation Builder integrating smart workflows & Meta APIs
-🟢 Currently mastering System Design & Scalable Architectures
+🎯 Mission: Building enterprise-grade products that empower organizations through automation, AI, and modern cloud technologies.
+💡 Philosophy: Software should create measurable value for the people and businesses who use it.
 ```
 
 ---
 
-### 🚀 Featured Projects
+## 🏢 What I Build & Current Focus
+
+| Category | Applications & Systems |
+| :--- | :--- |
+| 🏢 **Enterprise Systems** | Complete ERP Platforms, Inventory Suites & POS Workflows |
+| 📈 **Business Applications** | Custom CRM Platforms, Admin Dashboards & Cloud Tools |
+| 🎓 **Conference Portals** | IEEE Registration, Paper Submissions & Review Portals |
+| 🤖 **AI & Automation** | WhatsApp Commerce, Meta API Bots & Workflow Automation |
+| 🛍️ **E-Commerce & Retail** | Thiyana Collections, Product Catalogs & Checkout Systems |
+
+---
+
+## 🚀 Featured Projects
 
 | Project | Highlights | Tech Stack |
 | :--- | :--- | :--- |
-| 🏆 **IEEE Conference Portal** | Paper submissions, peer review, payment gateway & admin dashboard | `React` `Node.js` `MongoDB` |
-| 📦 **Enterprise ERP Suite** | Complete inventory, purchase, sales, POS & manufacturing workflows | `Next.js` `TypeScript` `Express` |
-| 🤖 **WhatsApp Commerce** | Native Meta API integration, OTP login, catalog & direct checkout | `Node.js` `Meta API` `MongoDB` |
+| 🏆 **IEEE Conference Registration Portal** | Paper submissions, peer review, payment gateway & admin dashboard | `React` `Node.js` `MongoDB` |
+| 🏢 **Enterprise ERP Suite** | Complete inventory, purchase, sales, POS & manufacturing workflows | `Next.js` `TypeScript` `Express` |
+| 🤖 **WhatsApp Commerce Automation** | Native Meta API integration, OTP login, catalog & direct checkout | `Node.js` `Meta API` `MongoDB` |
 | 🛍️ **Thiyana Collections** | E-commerce platform with automated inventory & order tracking | `React` `Tailwind` `Node.js` |
+| 📈 **Enterprise CRM Platform** | Customer pipeline, lead tracking & automated analytics | `Next.js` `Express` `MongoDB` |
+| 🌐 **Personal Portfolio** | Production-ready developer portfolio showcase | `React` `Tailwind` `Vercel` |
 
 ---
 
-### 💻 Tech Stack & Tools
+## 💻 Technical Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,typescript,javascript,tailwind,git,github,docker,vscode,java,python&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,typescript,javascript,tailwind,vite,html,css,git,github,docker,postman,vscode,linux,java,python,vercel&theme=dark" />
 </p>
+
+<details>
+<summary><b>🔍 View Categorized Skillset</b></summary>
+<br/>
+
+- **Frontend:** `React.js` • `Next.js` • `TypeScript` • `JavaScript` • `HTML5` • `CSS3` • `Tailwind CSS` • `Vite`
+- **Backend:** `Node.js` • `Express.js` • `REST APIs` • `JWT Authentication` • `OAuth` • `Cloudinary` • `Role Based Access (RBAC)`
+- **Database:** `MongoDB` • `Mongoose` • `MongoDB Atlas`
+- **Tools & Infrastructure:** `Git` • `GitHub` • `Postman` • `VS Code` • `Linux` • `PM2` • `Vercel` • `aaPanel`
+- **Programming Languages:** `JavaScript` • `TypeScript` • `Java` • `Python`
+</details>
 
 ---
 
-### 📊 GitHub Overview
+## ⚙️ Development Workflow & Principles
+
+```text
+Requirement Analysis ➔ UI/UX Planning ➔ Database Design ➔ Backend Architecture ➔ Frontend Development ➔ API Integration ➔ Testing ➔ Deployment ➔ Optimization
+```
+
+- **Coding Principles:** `Write Clean Code` • `Build Scalable Systems` • `Automate Repetitive Tasks` • `Design for Growth` • `Never Stop Learning`
+- **Core Strengths:** `System Architecture` • `Business Workflow Analysis` • `Full Stack Development` • `API & Database Design`
+
+---
+
+## 📊 GitHub Overview
 
 <p align="center">
   <a href="https://github.com/hariharan152578">
@@ -57,7 +98,9 @@
 
 ---
 
-### 🌐 Connect With Me
+## 🌐 Connect With Me
+
+📍 **Tamil Nadu, India** | 🏢 **Founder @ Archaelix Technologies**
 
 <p align="center">
   <a href="https://linkedin.com/in/hariharan152578" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
@@ -71,6 +114,6 @@
 
 <div align="center">
 
-> *"Building software that people love to use."*
+> *"Building software that transforms ideas into scalable business solutions."*
 
 </div>
