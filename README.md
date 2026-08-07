@@ -1,178 +1,143 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Hariharan%20M&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20MERN%20Stack%20|%20Next.js%20Developer&descAlignY=62&descSize=18" />
-</p>
+<div align="center">
 
-<h1 align="center">
-Hi 👋 I'm Hariharan M
-</h1>
+# HARIHARAN M
 
-<h3 align="center">
-🚀 Full Stack Developer | MERN Stack Developer | Building Scalable Business Solutions
-</h3>
+### Full Stack Developer
 
-<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Building+Enterprise+Software;MERN+Stack+Developer;Next.js+Developer;AI+Automation+Builder;Always+Learning+New+Things" />
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:hariharan152578@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://github.com/hariharan152578">
-<img src="https://img.shields.io/github/followers/hariharan152578?style=for-the-badge"/>
-</a>
-
-</p>
+</div>
 
 ---
 
-# 💫 About Me
-
-💻 Full Stack MERN Developer
-
-🚀 Passionate about building enterprise software that solves real business problems.
-
-🌱 Currently working on
-
-- IEEE Conference Registration Portal
-- Enterprise ERP System
-- WhatsApp Commerce Platform
-- Thiyana Collections E-Commerce
-- CRM System
-
-🎯 Goal
-
-Build scalable SaaS products used by businesses worldwide.
+<img width="100%" src="./assets/banner.gif">
 
 ---
 
-# 🚀 Tech Stack
+## 👋 Hey, It's Hari here
 
-### Frontend
+```text
+I build software that solves real business problems.
 
-<p>
+Turning ideas into scalable products.
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,vite"/>
-
-</p>
-
-### Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase"/>
-
-</p>
-
-### Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=js,ts,java,python"/>
-
-</p>
-
-### Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,linux"/>
-
-</p>
+Currently building ERP,
+Conference Management,
+E-Commerce,
+and AI Automation systems.
+```
 
 ---
 
-# 📌 Featured Projects
+## ⚡ Current Focus
 
-## 🎓 IEEE Conference Registration Portal
+```
+🟢 Building IEEE Conference Portal
 
+🟢 Building ERP
+
+🟢 WhatsApp Commerce
+
+🟢 AI Automation
+
+🟢 Learning System Design
+```
+
+---
+
+# 🚀 Featured Projects
+
+### 🏆 IEEE Conference Portal
+
+```
 ✔ Paper Submission
 
-✔ Author Registration
+✔ Registration
 
 ✔ Admin Dashboard
 
-✔ Payment Integration
+✔ Payment Gateway
 
-✔ Certificate Management
-
-**Tech**
-
-React • Node.js • Express • MongoDB
+✔ Certificates
+```
 
 ---
 
-## 🛍️ Thiyana Collections
+### 🛍️ Thiyana Collections
 
-Modern Fashion E-Commerce Platform
+```
+✔ Ecommerce
 
-Features
+✔ Inventory
 
-- Inventory
-- Google Login
-- WhatsApp Commerce
-- Order Management
-- Admin Dashboard
+✔ WhatsApp Commerce
 
----
-
-## 📦 Enterprise ERP
-
-Modules
-
-- Purchase
-- Inventory
-- Sales
-- Manufacturing
-- POS
-- Reports
+✔ Admin Dashboard
+```
 
 ---
 
-## 🤖 WhatsApp Commerce
+### 📦 Enterprise ERP
 
-Complete conversational commerce solution
+```
+✔ Inventory
 
-- OTP Login
-- Product Catalog
-- Cart
-- Checkout
-- Meta API Integration
+✔ Purchase
 
----
+✔ Sales
 
-## 📈 CRM System
+✔ Manufacturing
 
-Sales Management
-
-Lead Tracking
-
-Follow-ups
-
-Analytics Dashboard
+✔ POS
+```
 
 ---
 
-# 📊 GitHub Stats
+### 🤖 WhatsApp Commerce
+
+```
+✔ OTP Login
+
+✔ Catalog
+
+✔ Cart
+
+✔ Checkout
+
+✔ Meta API
+```
+
+---
+
+# 💻 Tech Stack
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=hariharan152578&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariharan152578&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,typescript,javascript,tailwind,git,github,docker,vscode,java,python"/>
 
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+# 📊 GitHub
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=hariharan152578&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariharan152578&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=hariharan152578&theme=tokyo-night"/>
+
+</p>
+
+---
 
 <p align="center">
 
@@ -182,73 +147,48 @@ Analytics Dashboard
 
 ---
 
-# 📈 Contribution Graph
+# 🏆 Achievements
+
+🏅 550+ Contributions
+
+🚀 40+ Repositories
+
+💻 MERN Stack
+
+📦 Enterprise Applications
+
+🤖 AI Automation
+
+---
+
+# 🌐 Connect
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hariharan152578&theme=tokyo-night&hide_border=true"/>
+<a href="YOUR_LINKEDIN">
+
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+
+</a>
+
+<a href="mailto:hariharan152578@gmail.com">
+
+<img src="https://skillicons.dev/icons?i=gmail"/>
+
+</a>
+
+<a href="YOUR_PORTFOLIO">
+
+<img src="https://skillicons.dev/icons?i=vercel"/>
+
+</a>
 
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+<div align="center">
 
-<p align="center">
+> Building software that people love to use.
 
-<img src="https://github-profile-trophy.vercel.app/?username=hariharan152578&theme=algolia&margin-w=10&margin-h=10&no-frame=true"/>
-
-</p>
-
----
-
-# 💻 Currently Learning
-
-- Next.js
-- TypeScript
-- System Design
-- AI Integration
-- Cloud Deployment
-- Enterprise Architecture
-
----
-
-# 📫 Connect With Me
-
-📧 Email
-
-**hariharan152578@gmail.com**
-
-💼 LinkedIn
-
-[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/hariharanm152578)
-
-🌐 Portfolio
-
-[YOUR_PORTFOLIO_URL](https://orgininfo.com/)
-
----
-
-# 💭 Quote
-
-> **"Building software that solves real business problems through clean architecture, automation, and scalable technology."**
-
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=hariharan152578&label=Profile%20Views&color=0e75b6&style=flat"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
-<h3 align="center">
-
-⭐ Thanks for visiting my profile ⭐
-
-</h3>
+</div>
