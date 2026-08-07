@@ -87,32 +87,22 @@ Requirement Analysis ➔ UI/UX Planning ➔ Database Design ➔ Backend Architec
 
 ---
 
-## 📊 GitHub Overview & Analytics
-
-<div align="center">
-
-| ⚡ Metrics | 📈 Achievements |
-| :--- | :--- |
-| 🔥 **Contributions**: 550+ Commits & Pull Requests | 🏅 **Repositories**: 40+ Production & Open Source Projects |
-| 🛠️ **Core Focus**: Full Stack & Systems Architecture | 🤖 **Automation**: Meta API & Business AI Integrations |
-
-</div>
-
-<br/>
+## 📊 GitHub Overview & Summary
 
 <p align="center">
-  <a href="https://github.com/hariharan152578">
-    <img src="https://github-readme-stats-fast.vercel.app/api?username=hariharan152578&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" />
-    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hariharan152578&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hariharan152578&theme=2077" width="100%" alt="GitHub Profile Details" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=hariharan152578&theme=tokyo-night&area=true&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hariharan152578&theme=2077" width="49%" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hariharan152578&theme=2077" width="49%" alt="Productive Time" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=hariharan152578&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hariharan152578&theme=2077" width="49%" alt="Repos per Language" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hariharan152578&theme=2077" width="49%" alt="Most Commit Language" />
 </p>
 
 ---
