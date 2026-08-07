@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/header_banner.png" width="100%" alt="Header Banner" />
+  <img src="./assets/pixel_bat_banner.png" width="100%" alt="Pixel Bat Banner" />
 </div>
 
 # 👋 Hi, I'm Hariharan M
