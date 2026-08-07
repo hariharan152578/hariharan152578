@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/spiderman_og_banner.gif" width="100%" alt="Classic Spider-Man Animated Banner" />
+  <img src="./assets/hero_banner.gif" width="100%" alt="Hero Animated Banner" />
 </div>
 
 # 👋 Hi, I'm Hariharan
