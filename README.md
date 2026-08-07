@@ -125,7 +125,7 @@ Requirement Analysis ➔ UI/UX Planning ➔ Database Design ➔ Backend Architec
 | :--- | :--- | :--- |
 | 💼 **LinkedIn** | [linkedin.com/in/hariharan152578](https://linkedin.com/in/hariharan152578) | <a href="https://linkedin.com/in/hariharan152578" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> |
 | ✉️ **Email** | [hariharan152578@gmail.com](mailto:hariharan152578@gmail.com) | <a href="mailto:hariharan152578@gmail.com"><img src="https://img.shields.io/badge/Email-Send_Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a> |
-| 💬 **WhatsApp** | [Enterprise / Business Direct](https://wa.me/919342738435) | <a href="https://wa.me/919342738435" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-Chat_Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a> |
+| 💬 **WhatsApp** | [Enterprise / Business Direct](https://wa.me/918870295336) | <a href="https://wa.me/918870295336" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-Chat_Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a> |
 | 🐙 **GitHub** | [github.com/hariharan152578](https://github.com/hariharan152578) | <a href="https://github.com/hariharan152578" target="_blank"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a> |
 
 <br/>
