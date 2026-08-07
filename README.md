@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner.png" width="100%" alt="Header Banner" />
+  <img src="./assets/header_banner.png" width="100%" alt="Header Banner" />
 </div>
 
 # 👋 Hey, It's Hari here
@@ -42,8 +42,8 @@
 
 <p align="center">
   <a href="https://github.com/hariharan152578">
-    <img src="https://github-readme-stats.vercel.app/api?username=hariharan152578&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariharan152578&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=hariharan152578&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hariharan152578&layout=compact&theme=tokyonight&hide_border=true" height="165" />
   </a>
 </p>
 
