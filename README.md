@@ -2,32 +2,35 @@
   <img src="./assets/banner.png" width="100%" alt="Header Banner" />
 </div>
 
-# Hey, It's Hari here
+# 👋 Hey, It's Hari here
 
-I like building things that make sense.  
-I work in enterprise & full-stack space.
+> *I like building things that make sense. I work in enterprise & full-stack space.*
 
 ---
 
 ### ⚡ About Me
 
-- 💻 **Full Stack Developer** specializing in MERN & Next.js ecosystem
-- ⚙️ **Systems Builder** crafting ERPs, Conference Portals & E-Commerce platforms
-- 🤖 **AI Automation** builder integrating smart workflows & business solutions
-- 🟢 Currently focused on **System Design & AI Integrations**
+```text
+💻 Full Stack Developer specializing in MERN & Next.js ecosystem
+⚙️ Systems Architect crafting ERPs, Conference Portals & E-Commerce suites
+🤖 AI Automation Builder integrating smart workflows & Meta APIs
+🟢 Currently mastering System Design & Scalable Architectures
+```
 
 ---
 
 ### 🚀 Featured Projects
 
-- 🏆 **IEEE Conference Portal** — Paper submission, registration & payment gateway suite
-- 📦 **Enterprise ERP** — All-in-one inventory, purchase, sales & POS management
-- 🤖 **WhatsApp Commerce** — Native Meta API integration with cart & OTP checkout
-- 🛍️ **Thiyana Collections** — E-commerce platform with automated inventory
+| Project | Highlights | Tech Stack |
+| :--- | :--- | :--- |
+| 🏆 **IEEE Conference Portal** | Paper submissions, peer review, payment gateway & admin dashboard | `React` `Node.js` `MongoDB` |
+| 📦 **Enterprise ERP Suite** | Complete inventory, purchase, sales, POS & manufacturing workflows | `Next.js` `TypeScript` `Express` |
+| 🤖 **WhatsApp Commerce** | Native Meta API integration, OTP login, catalog & direct checkout | `Node.js` `Meta API` `MongoDB` |
+| 🛍️ **Thiyana Collections** | E-commerce platform with automated inventory & order tracking | `React` `Tailwind` `Node.js` |
 
 ---
 
-### 💻 Tech Stack
+### 💻 Tech Stack & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,typescript,javascript,tailwind,git,github,docker,vscode,java,python&theme=dark" />
@@ -35,15 +38,17 @@ I work in enterprise & full-stack space.
 
 ---
 
-### 📊 Activity & Stats
+### 📊 GitHub Overview
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hariharan152578&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariharan152578&layout=compact&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/hariharan152578">
+    <img src="https://github-readme-stats.vercel.app/api?username=hariharan152578&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariharan152578&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  </a>
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=hariharan152578&theme=tokyo-night" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=hariharan152578&theme=tokyo-night&area=true&hide_border=true" />
 </p>
 
 <p align="center">
@@ -52,12 +57,14 @@ I work in enterprise & full-stack space.
 
 ---
 
-### 🌐 Connect
+### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/hariharan152578"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://linkedin.com/in/hariharan152578" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  &nbsp;&nbsp;
   <a href="mailto:hariharan152578@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://github.com/hariharan152578"><img src="https://skillicons.dev/icons?i=github" /></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/hariharan152578" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
 </p>
 
 ---
