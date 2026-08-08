@@ -2,7 +2,7 @@
   <img src="./assets/hero_banner.gif" width="100%" alt="Hero Animated Banner" />
 </div>
 
-# 👋 Hi, I'm Hariharan M
+# 👋 Hi, I'm Hariharan
 
 **🚀 Enterprise Full Stack Developer | Founder @ Orgininfo**  
 *Building ERP, CRM & AI-Powered Business Solutions*
